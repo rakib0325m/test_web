@@ -1,0 +1,25 @@
+
+
+@media (max-width:768px){
+
+    div.logo {
+        width: 100%;
+    }
+    div.saftytitle h2 {
+        width: 100%;
+        margin: auto;
+    }
+    
+    div.ImagesBox {
+        width: 100%;
+        margin: auto;
+    }
+    
+    div.saftaInfo {
+        width: 100%;
+        margin: auto;
+    }
+
+
+}
+
